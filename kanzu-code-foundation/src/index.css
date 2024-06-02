@@ -1,0 +1,29 @@
+
+.card{
+  max-width: 300px;
+  height: auto;
+  margin: 10px;
+  border: 2px solid hsl(60, 1%, 28%);
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 5px 5px 5px hsl(0, 1%, 54%);
+  display: inline-block;
+  
+}
+.image{
+  max-width: 300px;
+  height: auto;
+  border-radius: 50%;
+  
+  
+}
+.card .card-title{
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: large;
+}
+.card .card-des{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
