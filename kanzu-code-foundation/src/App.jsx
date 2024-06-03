@@ -1,13 +1,10 @@
 import Card from "./components/Card";
+import Student from "./components/Student";
 function App() {
   
   return (
     <>
-    <Card />
-    <Card />
-    <Card />
-    <Card />
-    <Card />
+    <Student />
     </>
   )
 }
