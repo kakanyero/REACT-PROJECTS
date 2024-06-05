@@ -16,6 +16,7 @@ function App() {
      */
 
     <>
+    <UserGreeting isLoggedIn={false} name="JAMES"/>
     <UserGreeting isLoggedIn={true} name="JAMES"/>
     
     </>
