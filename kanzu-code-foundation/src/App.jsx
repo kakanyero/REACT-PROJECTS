@@ -7,6 +7,7 @@ function App() {
   return (
     /**
      * <>
+     * <Card/>
     <Student name="KAKANYERO" age={28} isStudent={true}/>
     <Student name="INNOCENT" age={12} isStudent={false}/>
     <Student name="SPOODA" age={34} isStudent={false}/>
